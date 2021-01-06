@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T15:13:18.350Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.8" etag="r3YPWMwun92HmV6t48WI" type="github"><diagram id="M1koQ1bpwDo4WBY1ns83">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-06T15:13:38.052Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BV95tnnxWi2FDDByfWF5" version="14.1.8" type="github">
+  <diagram id="M1koQ1bpwDo4WBY1ns83" name="第1頁">
+    <mxGraphModel dx="946" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="390" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-2" value="RTSP&lt;br&gt;Open-CV" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iq6UqCS-xWOQDpxc9flD-3" target="Iq6UqCS-xWOQDpxc9flD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-1/52/camera__cam__web__multimedia__webcam__webcamera__live-128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iq6UqCS-xWOQDpxc9flD-5" target="Iq6UqCS-xWOQDpxc9flD-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="144" />
+              <mxPoint x="580" y="144" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.hardware_board;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="93.75" width="84" height="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-6" value="RTSP&lt;br&gt;Open-CV" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iq6UqCS-xWOQDpxc9flD-7" target="Iq6UqCS-xWOQDpxc9flD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-1/52/camera__cam__web__multimedia__webcam__webcamera__live-128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-8" value="Storage" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iq6UqCS-xWOQDpxc9flD-9" target="Iq6UqCS-xWOQDpxc9flD-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="294" />
+              <mxPoint x="570" y="294" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.hardware_board;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="243.75" width="84" height="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-10" value="RTSP&lt;br&gt;Open-CV" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iq6UqCS-xWOQDpxc9flD-11" target="Iq6UqCS-xWOQDpxc9flD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-1/52/camera__cam__web__multimedia__webcam__webcamera__live-128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iq6UqCS-xWOQDpxc9flD-13" target="Iq6UqCS-xWOQDpxc9flD-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="454" />
+              <mxPoint x="550" y="454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-13" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.hardware_board;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="403.75" width="84" height="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-14" value="Read" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iq6UqCS-xWOQDpxc9flD-15" target="Iq6UqCS-xWOQDpxc9flD-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-15" value="Storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="641.2" y="120" width="120" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/nvidia-128.png;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="858.12" y="-3.75" width="123.75" height="123.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-17" value="Model" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iq6UqCS-xWOQDpxc9flD-19" target="Iq6UqCS-xWOQDpxc9flD-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-18" value="precision" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.007;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Iq6UqCS-xWOQDpxc9flD-15" target="Iq6UqCS-xWOQDpxc9flD-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-19" value="training" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="237.5" width="80" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iq6UqCS-xWOQDpxc9flD-21" target="Iq6UqCS-xWOQDpxc9flD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-21" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="670" y="560" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-22" value="Label" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="708.8" y="498" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/grafana-128.png;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="93.75" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq6UqCS-xWOQDpxc9flD-24" value="1. AIoT 設備如何更新模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="510" width="150" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
